@@ -1,5 +1,7 @@
 **NextJs Image Gallery**
-  
+
+![Categories Page](https://drive.google.com/uc?export=view&id=1bkW5fEssq_UeHSmvOnkEO1cDGrT_uNko)
+
 - App router version
 - Learned about difference between client and server components.
 - The Important Changes from Page directory to App directory.
