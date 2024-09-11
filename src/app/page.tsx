@@ -5,7 +5,7 @@ export default function Home() {
      <div>
       <Alert>
         <p>
-          This is a sample project to showcase and learn the new <strong>NextJS 13 app directory</strong> and its features, including:
+          This is a sample project to showcase and learn the new <strong>NextJS 13 and further versions app directory</strong> and its features, including:
         </p>
         <ul>
           <li>static and dynamic server-side rendering</li>
