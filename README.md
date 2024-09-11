@@ -14,4 +14,5 @@
 
 **TECH STACK**
 - NextJS + TypeScript
+- Bootstrap
 - Unsplash API
