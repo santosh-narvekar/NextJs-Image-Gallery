@@ -1,4 +1,4 @@
-**A Project To Learn About NextJs**
+**NextJs Image Gallery**
   
 - App router version
 - Learned about difference between client and server components.
