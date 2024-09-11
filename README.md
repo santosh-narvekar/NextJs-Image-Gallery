@@ -6,7 +6,7 @@
 - Implemented Static, Dynamic and Isr in different pages.
 - Implemented and Learned the difference between client-side and server-side rendering.
 - Learned about the  exact situations to use and Implement NextJs Out-of-box Features
-- The Importance of SEO.
+- The Importance of SEO and Metadata for Pages.
 - The Benefits of NextJs over normal React.
 - Learned about the different techniques of fetching and caching data in NextJs.
 
